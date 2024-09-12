@@ -29,6 +29,11 @@ This makes the instruction more professional and clear. Let me know if you'd lik
 6. **Try it out**:
    - Head over to LeetCode, reload the page, and test out the extension!
 
+This is a funny video that I made:
+
+https://github.com/user-attachments/assets/38b280d1-3cff-4455-83f0-03a366246f7c
+
+
 Thank you for giving CODE BUDDY a try!
 
 ## License
