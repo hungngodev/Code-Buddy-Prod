@@ -26,3 +26,15 @@ If you'd like to try out this extension before its release on the Chrome Web Sto
    - Head over to LeetCode, reload the page, and test out the extension!
 
 Thank you for giving CODE BUDDY a try!
+
+## License
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+This project and its contents are the exclusive property of Code Buddy's Team. Unauthorized copying, publishing, or distribution of this project, either in part or in full, is strictly prohibited. This is just for demo testing!
+
+You may not:
+
+- Copy or redistribute the material in any medium or format.
+- Modify, publish, or distribute the material for commercial purposes.
+
+Any unauthorized use of this code or its components will be subject to legal actions.
+
