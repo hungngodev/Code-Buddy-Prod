@@ -20,7 +20,11 @@ If you'd like to try out this extension before its release on the Chrome Web Sto
    ![Enable Developer Mode](https://github.com/user-attachments/assets/7f03f696-adea-4bcb-967b-40b6e892d7c5)
 
 5. **Load the extension**:
-   - Click "Load unpacked" and select the `dist/` folder from the unzipped repository.
+   - Click on **"Load unpacked"** and navigate to the folder you downloaded and unzipped. 
+   - Select the folder that contains both the `assets/` directory and `manifest.json` file.
+
+
+This makes the instruction more professional and clear. Let me know if you'd like further refinements!
 
 6. **Try it out**:
    - Head over to LeetCode, reload the page, and test out the extension!
