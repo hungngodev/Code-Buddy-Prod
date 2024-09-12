@@ -5,9 +5,8 @@
 
 https://github.com/user-attachments/assets/38b280d1-3cff-4455-83f0-03a366246f7c
 
-
-
-If you'd like to try out this extension before its release on the Chrome Web Store, follow the steps below:
+Currently, we are submitting for reviews to be able to show on Chrome Web Store.
+If you'd like to try out this extension before its official release, follow the steps below:
 
 1. **Download the repository as a ZIP file**:
    - Go to the GitHub page and click on the "Download ZIP" button.
