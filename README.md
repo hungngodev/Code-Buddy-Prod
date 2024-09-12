@@ -1,8 +1,6 @@
----
-
 ## Welcome to CODE BUDDY
 
-To try out this extension before its release on the Chrome Web Store, please follow the steps below:
+If you'd like to try out this extension before its release on the Chrome Web Store, follow the steps below:
 
 1. **Download the repository as a ZIP file**:
    - Go to the GitHub page and click on the "Download ZIP" button.
@@ -28,5 +26,3 @@ To try out this extension before its release on the Chrome Web Store, please fol
    - Head over to LeetCode, reload the page, and test out the extension!
 
 Thank you for giving CODE BUDDY a try!
-
----
