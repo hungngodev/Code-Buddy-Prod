@@ -1,4 +1,10 @@
 ## Welcome to CODE BUDDY
+DEMO:
+
+
+https://github.com/user-attachments/assets/92b124d9-0ed2-455d-90ee-31dc1f594b48
+
+
 
 If you'd like to try out this extension before its release on the Chrome Web Store, follow the steps below:
 
