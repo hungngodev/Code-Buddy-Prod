@@ -29,9 +29,6 @@ If you'd like to try out this extension before its release on the Chrome Web Sto
    - Click on **"Load unpacked"** and navigate to the folder you downloaded and unzipped. 
    - Select the folder that contains both the `assets/` directory and `manifest.json` file.
 
-
-This makes the instruction more professional and clear. Let me know if you'd like further refinements!
-
 6. **Try it out**:
    - Head over to LeetCode, reload the page, and test out the extension!
 
