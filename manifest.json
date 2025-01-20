@@ -21,15 +21,6 @@
       "run_at": "document_end"
     }
   ],
-  "commands": {
-    "Ctrl+M": {
-      "suggested_key": {
-        "default": "Ctrl+M",
-        "mac": "Command+M"
-      },
-      "description": "Ctrl+M."
-    }
-  },
   "background": {
     "service_worker": "assets/background.js",
     "type": "module"
